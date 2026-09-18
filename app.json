@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "lingoloop-",
+    "slug": "snack-b21ad163-3ae4-4e34-a100-75c92952c3ae",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "package": "com.lingoloop26.snackb21ad1633ae44e34a10075c92952c3ae"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Ai English learning app",
+    "plugins": [
+      "expo-status-bar",
+      "expo-font"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "0b8d3cb3-0944-4cca-93f5-c2e285c0a3a4"
+      }
+    }
+  }
+}
