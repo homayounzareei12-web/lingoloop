@@ -15,6 +15,7 @@
       "supportsTablet": true
     },
     "android": {
+      "versionCode": 4,
       "blockedPermissions": ["android.permission.SYSTEM_ALERT_WINDOW"],
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
